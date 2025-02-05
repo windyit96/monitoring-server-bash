@@ -1,13 +1,6 @@
 #!/bin/bash
 
-# Using Slack Webhook URL
-SLACK_WEBHOOK_URL="https://hooks.slack.com/services/xxxxxxxx/xxxxxxxx/xxxxxxxxxxxxx"
-
-# Get hostname 
-HOSTNAME=$(hostname)
-
-
-echo "================= Server Monitoring $HOSTNAME ================="
+echo "================= Server Monitoring ================="
 echo "Date: $(date)"
 echo "------------------------------------------------------------"
 
