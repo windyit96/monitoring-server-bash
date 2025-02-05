@@ -1,7 +1,7 @@
 # monitoring-server-bash
 monitoring server
 
-1./ Git clone project
+1./ Git clone project: https://github.com/windyit96/monitoring-server-bash
 
 sudo git clone https://github.com/windyit96/monitoring-server-bash.git
 
