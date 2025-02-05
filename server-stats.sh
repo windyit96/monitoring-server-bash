@@ -40,4 +40,4 @@ echo "------------------------------------------------------------"
 # Top 5 Processes by Memory Usage
 echo "🔹 Top 5 Processes by Memory Usage:"
 ps -eo pid,comm,%mem --sort=-%mem | head -n 6
-echo "============================================================"
+echo "================= End Reporting ==========================="
