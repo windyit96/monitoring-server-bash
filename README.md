@@ -1,2 +1,2 @@
 # monitoring-server-bash
-monitoring serve
+monitoring server
